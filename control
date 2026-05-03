@@ -1,0 +1,9 @@
+Package: com.vanson.cli
+Name: VansonCLI
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: CLI-ify the injected process
+Maintainer: Vanson
+Author: Vanson
+Section: Tweaks
